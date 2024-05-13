@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Multiple Airlines</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="https://lh3.googleusercontent.com/-HtZivmahJYI/VUZKoVuFx3I/AAAAAAAAAcM/thmMtUUPjbA/Blue_square_A-3.PNG" />
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="forcompany.css">
+	<link rel="stylesheet" href="AdminSignin.css">
+	<script  src="jquery-1.9.1.min.js"></script>
+	<script src="Admin.js"></script>
+	
+</head>
+<body>
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="homepage.html"><span class="glyphicon glyphicon-home"></span> Home</a>
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav navbar-right">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="homepage.html"><span class="glyphicon glyphicon-user"> Sign out&nbsp;</span>						</a>
+						
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="jumbotron text-center">
+		<h1>Vaccine Distribution</h1> 
+		<p>Distribute vaccines across Nairobi!</p> 
+	</div>
+
+	<div class="container">
+		
+		<div class="btn-group btn-group-justified">
+			<div class="btn btn-primary" id="a">Add</div>
+			<div class="btn btn-primary" id="u">Update</div>
+			<div class="btn btn-primary" id="d">Delete</div>
+		</div>
+		<hr />
+		<div id = "add">
+		<form class="form-horizontal" role="form" id="addf">
+			<div class="form-group">
+				<label class="control-label col-sm-2" for="Vaccineno2">Vaccine ID.</label>
+				<div class="col-sm-6">
+					<input type="flightno" class="form-control" id="VaccineID" placeholder="" name="Vaccineno">
+					
+				</div>
+				
+			</div>
+			<div class="form-group">
+				<label class="control-label col-sm-2" for="Vaccine">Vaccine  Name</label>
+				<div class="col-sm-6">
+					<input type="vaccineid" class="form-control" id="vaccineid2" placeholder="" name="vaccineid">
+				</div>
+				<label class="control-label col-sm-1" for="vaccdesc" id = "ad1"><font color="gray">Vaccine Description</font></label>
+				<div class="col-sm-3" id = "detail">
+				</div>
+			</div>
+			<div class="form-group">
+				<label class="control-label col-sm-2" for="manufacturer">Manufacturer</label>
+				<div class="col-sm-6">
+					<input type="manufacturer" class="form-control" id="manufacturer" placeholder="" name="manufacturer">
+				</div>
+				<label class="control-label col-sm-1" for="supplier" id="ad2" ><font color="gray">Supplier</font></label>
+				<div class="col-sm-3" id = "adetail2">
+				</div>
+			</div>
+			<div class="form-group">
+				<label class="control-label col-sm-2" for="Healthcare Association">Healthcare Association</label>
+				<div class="col-sm-6">
+					<input type="dtime" class="form-control" id="dtime2" placeholder="" name="dtime">
+				</div>
+			</div>
+			<div class="form-group">
+				<label class="control-label col-sm-2" for="arrival"></label>
+			
+		
+			
+			<br />
+			<div class="form-group">        
+				<div class="col-sm-offset-2 col-sm-6">
+					<input type = "button" class="btn btn-primary btn-block" value="Update" id="up" />
+					<input type = "button" class="btn btn-primary btn-block" value="Delete" id="de" />
+				</div>
+			</div>
+		</form>
+		</div>
+		<div id = "delete">
+	
+	    </div>
+		<br /><br /><br />
+	</div>	
+	
+	<footer class="container-fluid text-center">
+		<a href="#signUpPage" title="To Top">
+			<span class="glyphicon glyphicon-chevron-up"></span>
+		</a>
+		<p>Multiple Airlines</p>		
+	</footer>
+</body>
+</html>
