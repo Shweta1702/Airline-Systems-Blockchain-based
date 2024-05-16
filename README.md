@@ -1,5 +1,14 @@
-Airline Systems with PARS-integration
+Airline Systems with Programmed Airline Reservation Systems-integration
 
+Refactoring manual file inventories to automatic software air databases requires a lot of skill, expertise and 
+money to prevent the risk of software failures like the one of British Airways in the year 2019 (despite of 
+being an automated system the British Airways was forced to revert to a manual system that caused long 
+queues at Heathrow, Gatwick and London city airports this led to loads of errors in the filing and database 
+records-led to loss of information and jobs of airstaff due to inability of the firm to repay its passengers 
+their money and struck of millions of jobs of the airstaff causing major losses in the airline industry (World, 
+2018). The proposed system of multiple airlines is designed to prevent major losses in the airline industry,
+create jobs for airstaff and prevents data loss, as well as, prevents loss of data from major identification 
+documents, such as passport numbers, names, sensitive stakeholder information such as credit card details
 The airline reservation system is a mission critical system that provides a complete hosting system for 
 airlines. The airline systems also provide airline management assistance by addressing financial, 
 administrative, back office issues, scheduling, airline load data, decision support for control of overbooking, 
@@ -34,6 +43,17 @@ flight aircraft, minimizing the number of vacant seats on a flight to maximize f
 This reduces the effort and frustration of travellers in scheduling a trip, by reducing the search effort for 
 the flight they need to catch. This inturn improves the efficiency and effectiveness of the refactored online 
 air database and makes travelling ergonomic due to appropriate services provided by the system airlines.
+Specific Objectives
+i. To propose a system which can accurately store all passenger details safely in an online database 
+in which more than one passenger data entries can be added, deleted and updated in less time 
+accurately and efficiently.
+ii. To design and develop a system with which passengers can view and obtain flight information of all 
+domestic and international flights from appropriate flight databases online with all necessary flight 
+details to make a flight reservation and booking .
+iii. To implement a web based air reservation system with online booking and reservation forms 
+designed and developed with Hypertext Markup Language to store large amounts of data with 
+connections with online databases to store large amounts of passenger details and their itinerary 
+information with which passengers can receive tickets online after having made payments online .
 
 Functional Requirements:
 Universal Online Login
@@ -48,6 +68,10 @@ payments to book a reservation and then logs out. The user then waits for the ti
  Payment Methods via Paypal
 The User logs in with all their valid credit card details to make payments via the credit card for the flight 
 that the passenger booked and receives a confirmation of payment.
+
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/220f18b6-dbb6-48eb-af16-e1a6daa2ad1c)
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3aa32ee2-2dc1-4453-8a60-a7d1a2d9ca0f)
+
 
  Non-Functional Requirements
  Interoperability.The web application is designed with an interface that is compatible with 
