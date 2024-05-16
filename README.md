@@ -1,5 +1,8 @@
 Airline Systems with Programmed Airline Reservation Systems-integration
-
+The implemented system can solve the problem by refactoring its manual nature to automatic to add passenger details in the correct databases to 
+resolve wrong seat allocation and can also allocate other Flight Aircraft vessels when the 
+passenger changes their destinations , departure times this in turn reduces the losses the firm may 
+encounter due to flight rescheduling and cancellation
 Refactoring manual file inventories to automatic software air databases requires a lot of skill, expertise and 
 money to prevent the risk of software failures like the one of British Airways in the year 2019 (despite of 
 being an automated system the British Airways was forced to revert to a manual system that caused long 
@@ -20,6 +23,8 @@ airline reservation systems. PARS-IPARS systems make use of the processed reserv
 requests during allotments which ensures that all data can be stored and received easily.
 
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/1bfb9cb2-83e8-497f-9877-d004a653d61e)
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/18ef289d-3c8e-4c0a-8019-126d34c27dca)
+
 
  Justification:
 The proposed and implemented system intends to solve online air booking and reservation problems to 
@@ -28,14 +33,30 @@ proposed system uses a web based hierarchy with a relational airline database sy
 booking information and air tickets resolves the problems of inaccurate airline ticket booking by the manual 
 system being refactored to an automatic software system, which can add/update passenger registration 
 queries and allocates passengers different flight aircrafts in the case of double seat booking which assists 
-to prevent duplicity and counterfeit. The system when refactored the passenger can update all their travel 
+to prevent duplicity and counterfeit. 
+Artificial intelligence is a key technology that works with the global distribution systems that promotes easy 
+facilitation of booking tickets. The four major GDS systems due to which systems are accessible to 
+consumers through internet gateways for airline tickets include: SABRE, AMADEUS, GALILEO,
+WORLDSPAN. The American airline use the SABRE reservation system that uses the interface PEGASUS 
+that allows the passengers to obtain flight information and makes flight reservations and online payments 
+through (credit cards) via large online dynamic databases that are accessed through: their personal 
+computers and smartphones( without the risk of identity theft and fraud over the internet) (SABRE, 
+2019).Biometrics ensure that payments are made securely via credit cards that use search algorithms to 
+perform the search of airlines with some intelligence and some security that prevents credit card theft in 
+payments. The biometric system lacks intelligence and smartness in searching of airlines where again the 
+burden falls on the user towards refining the search, making decision based on retrieved results. Therefore,
+the system works with the GDS internet gateways Intelligent Search Agent with learning capability 
+(artificial intelligence) that may be searching for a flight with minimal individual preferences based on 
+previous search experience of the agent.
+The system when refactored the passenger can update all their travel 
 information in case of any changes made in their itinerary details to make a booking and receiving air 
 tickets early for ease of travel purposes with all appropriate flight information and details with correct 
 flight times that a passenger can easily adapt to and can be updated in the online airline database.
 Multiple Airlines provide different iterative information such as online registration of passengers, the 
 inclusion of travel maps, the booking plans, ergonomics of the plane, which improve the system interaction
 of passenger with the system to prevent flight cancellations by reducing the time taken in receiving air
-tickets. Refactoring the previous manual version of the system to an automatic online version ensures that 
+tickets.
+Refactoring the previous manual version of the system to an automatic online version ensures that 
 there is data consistency maintained with different access modes by phones, by web, at the information 
 desk and across different physical locations of the Multiple Airline Offices, maintains customer information 
 in case of emergency, e.g. flight cancellation due to inclement weather and the system allocates a different 
@@ -43,6 +64,7 @@ flight aircraft, minimizing the number of vacant seats on a flight to maximize f
 This reduces the effort and frustration of travellers in scheduling a trip, by reducing the search effort for 
 the flight they need to catch. This inturn improves the efficiency and effectiveness of the refactored online 
 air database and makes travelling ergonomic due to appropriate services provided by the system airlines.
+
 Specific Objectives
 i. To propose a system which can accurately store all passenger details safely in an online database 
 in which more than one passenger data entries can be added, deleted and updated in less time 
