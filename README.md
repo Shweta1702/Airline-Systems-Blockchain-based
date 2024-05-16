@@ -96,10 +96,12 @@ payments to book a reservation and then logs out. The user then waits for the ti
  Payment Methods via Paypal
 The User logs in with all their valid credit card details to make payments via the credit card for the flight 
 that the passenger booked and receives a confirmation of payment.
-
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/9c45a9cc-5d6e-48ed-99b3-421033db1c4e)
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/220f18b6-dbb6-48eb-af16-e1a6daa2ad1c)
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3aa32ee2-2dc1-4453-8a60-a7d1a2d9ca0f)
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3dd71bf2-1649-43d4-b2dc-907618b8f440)
+
+
 
  Non-Functional Requirements
  Interoperability.The web application is designed with an interface that is compatible with 
