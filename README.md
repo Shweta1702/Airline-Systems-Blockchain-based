@@ -95,6 +95,7 @@ that the passenger booked and receives a confirmation of payment.
 
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/220f18b6-dbb6-48eb-af16-e1a6daa2ad1c)
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3aa32ee2-2dc1-4453-8a60-a7d1a2d9ca0f)
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3dd71bf2-1649-43d4-b2dc-907618b8f440)
 
  Non-Functional Requirements
  Interoperability.The web application is designed with an interface that is compatible with 
@@ -112,4 +113,3 @@ different ages.
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/03d8c251-b2e7-4b48-99bc-7f56d2c175e1)
 
 
-![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3dd71bf2-1649-43d4-b2dc-907618b8f440)
