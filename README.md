@@ -24,7 +24,17 @@ airline reservation systems. PARS-IPARS systems make use of the processed reserv
 requests during allotments which ensures that all data can be stored and received easily.
 
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/1bfb9cb2-83e8-497f-9877-d004a653d61e)
-
+Specific Objectives
+i. To propose a system which can accurately store all passenger details safely in an online database 
+in which more than one passenger data entries can be added, deleted and updated in less time 
+accurately and efficiently.
+ii. To design and develop a system with which passengers can view and obtain flight information of all 
+domestic and international flights from appropriate flight databases online with all necessary flight 
+details to make a flight reservation and booking .
+iii. To implement a web based air reservation system with online booking and reservation forms 
+designed and developed with Hypertext Markup Language to store large amounts of data with 
+connections with online databases to store large amounts of passenger details and their itinerary 
+information with which passengers can receive tickets online after having made payments online .
 
  Justification:
 The proposed and implemented system intends to solve online air booking and reservation problems to 
@@ -64,20 +74,14 @@ flight aircraft, minimizing the number of vacant seats on a flight to maximize f
 This reduces the effort and frustration of travellers in scheduling a trip, by reducing the search effort for 
 the flight they need to catch. This inturn improves the efficiency and effectiveness of the refactored online 
 air database and makes travelling ergonomic due to appropriate services provided by the system airlines.
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3f51273d-ca5a-43a2-a78e-f1c889cb9b76)
+
+
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/03d8c251-b2e7-4b48-99bc-7f56d2c175e1)
+
 
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/18ef289d-3c8e-4c0a-8019-126d34c27dca)
 
-Specific Objectives
-i. To propose a system which can accurately store all passenger details safely in an online database 
-in which more than one passenger data entries can be added, deleted and updated in less time 
-accurately and efficiently.
-ii. To design and develop a system with which passengers can view and obtain flight information of all 
-domestic and international flights from appropriate flight databases online with all necessary flight 
-details to make a flight reservation and booking .
-iii. To implement a web based air reservation system with online booking and reservation forms 
-designed and developed with Hypertext Markup Language to store large amounts of data with 
-connections with online databases to store large amounts of passenger details and their itinerary 
-information with which passengers can receive tickets online after having made payments online .
 
 Functional Requirements:
 Universal Online Login
@@ -107,9 +111,5 @@ before data is stored in the account.
 User-Friendly. The layout is designed such that it is easy to be used by passengers across 
 different ages.
 
-![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3f51273d-ca5a-43a2-a78e-f1c889cb9b76)
-
-
-![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/03d8c251-b2e7-4b48-99bc-7f56d2c175e1)
 
 
