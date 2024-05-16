@@ -33,15 +33,18 @@ in case of emergency, e.g. flight cancellation due to inclement weather and the 
 flight aircraft, minimizing the number of vacant seats on a flight to maximize flight capacity utilization.
 This reduces the effort and frustration of travellers in scheduling a trip, by reducing the search effort for 
 the flight they need to catch. This inturn improves the efficiency and effectiveness of the refactored online 
-air database and makes travelling ergonomic due to appropriate services provided by the system airlines
-Functional Requirements
-.Universal Online Login
+air database and makes travelling ergonomic due to appropriate services provided by the system airlines.
+
+Functional Requirements:
+Universal Online Login
 The user need to login to the online database before they are granted the required services, the user had 
 created an online Airline account with valid credentials ,the passenger can book flights to distinct locations 
 and make changes to the required fields of data.
+
  Making Reservations and Cancellation of Reservations.
 The user first creates an account to login, then logs in. The user then checks the flight details and makes 
-payments to book a reservation and then logs out. The user then waits for the booking tickets.
+payments to book a reservation and then logs out. The user then waits for the ticket allocations.
+
  Payment Methods via Paypal
 The User logs in with all their valid credit card details to make payments via the credit card for the flight 
 that the passenger booked and receives a confirmation of payment.
