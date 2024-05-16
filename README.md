@@ -1,4 +1,4 @@
-Airline Systmes with PARS-integration
+Airline Systems with PARS-integration
 
 The airline reservation system is a mission critical system that provides a complete hosting system for 
 airlines. The airline systems also provide airline management assistance by addressing financial, 
