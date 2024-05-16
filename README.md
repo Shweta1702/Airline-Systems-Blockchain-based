@@ -65,6 +65,8 @@ This reduces the effort and frustration of travellers in scheduling a trip, by r
 the flight they need to catch. This inturn improves the efficiency and effectiveness of the refactored online 
 air database and makes travelling ergonomic due to appropriate services provided by the system airlines.
 
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/18ef289d-3c8e-4c0a-8019-126d34c27dca)
+
 Specific Objectives
 i. To propose a system which can accurately store all passenger details safely in an online database 
 in which more than one passenger data entries can be added, deleted and updated in less time 
@@ -94,7 +96,6 @@ that the passenger booked and receives a confirmation of payment.
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/220f18b6-dbb6-48eb-af16-e1a6daa2ad1c)
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3aa32ee2-2dc1-4453-8a60-a7d1a2d9ca0f)
 
-![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/18ef289d-3c8e-4c0a-8019-126d34c27dca)
  Non-Functional Requirements
  Interoperability.The web application is designed with an interface that is compatible with 
 every operating system(android, windows, mac)
