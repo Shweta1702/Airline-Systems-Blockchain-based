@@ -25,8 +25,6 @@ requests during allotments which ensures that all data can be stored and receive
 
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/1bfb9cb2-83e8-497f-9877-d004a653d61e)
 
-![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/18ef289d-3c8e-4c0a-8019-126d34c27dca)
-
 
  Justification:
 The proposed and implemented system intends to solve online air booking and reservation problems to 
@@ -96,7 +94,7 @@ that the passenger booked and receives a confirmation of payment.
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/220f18b6-dbb6-48eb-af16-e1a6daa2ad1c)
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3aa32ee2-2dc1-4453-8a60-a7d1a2d9ca0f)
 
-
+![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/18ef289d-3c8e-4c0a-8019-126d34c27dca)
  Non-Functional Requirements
  Interoperability.The web application is designed with an interface that is compatible with 
 every operating system(android, windows, mac)
