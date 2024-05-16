@@ -1,5 +1,8 @@
 Airline Systems with Programmed Airline Reservation Systems-integration
-
+ PARS (Programmed Airline Reservation Systems) are large scale airline reservation systems that executes under the control of IBM 
+airline control program and its successor. PARS is the essential foundation and conceptual basis of all 
+airline reservation systems. PARS-IPARS systems make use of the processed reservation and booking 
+requests during allotments which ensures that all data can be stored and received easily.
 The implemented system can solve the problem by refactoring its manual nature to automatic to add passenger details in the correct databases to 
 resolve wrong seat allocation and can also allocate other Flight Aircraft vessels when the 
 passenger changes their destinations , departure times this in turn reduces the losses the firm may 
@@ -18,10 +21,6 @@ airlines. The airline systems also provide airline management assistance by addr
 administrative, back office issues, scheduling, airline load data, decision support for control of overbooking, 
 discount seat allocations, and yield management that can be used to adjust the number of special fare seats 
 based on the number of reservations.
- PARS (Programmed Airline Reservation Systems) are large scale airline reservation systems that executes under the control of IBM 
-airline control program and its successor. PARS is the essential foundation and conceptual basis of all 
-airline reservation systems. PARS-IPARS systems make use of the processed reservation and booking 
-requests during allotments which ensures that all data can be stored and received easily.
 
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/1bfb9cb2-83e8-497f-9877-d004a653d61e)
 Specific Objectives
