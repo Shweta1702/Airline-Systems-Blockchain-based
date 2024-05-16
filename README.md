@@ -1,4 +1,5 @@
 Airline Systems with Programmed Airline Reservation Systems-integration
+
 The implemented system can solve the problem by refactoring its manual nature to automatic to add passenger details in the correct databases to 
 resolve wrong seat allocation and can also allocate other Flight Aircraft vessels when the 
 passenger changes their destinations , departure times this in turn reduces the losses the firm may 
@@ -23,6 +24,7 @@ airline reservation systems. PARS-IPARS systems make use of the processed reserv
 requests during allotments which ensures that all data can be stored and received easily.
 
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/1bfb9cb2-83e8-497f-9877-d004a653d61e)
+
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/18ef289d-3c8e-4c0a-8019-126d34c27dca)
 
 
