@@ -55,6 +55,7 @@ environments such as computers, mobiles, tablets, laptops and electronic devices
 before data is stored in the account.
 User-Friendly. The layout is designed such that it is easy to be used by passengers across 
 different ages.
+
 ![image](https://github.com/Shweta1702/Airline-Systems-Blockchain-based/assets/98207035/3f51273d-ca5a-43a2-a78e-f1c889cb9b76)
 
 
